@@ -1,0 +1,9 @@
+Q9. Write a function list_intersection(list1, list2) that returns a list of elements 
+that are present in both list1 and list2 
+Q10. Write a Python function that takes a list of strings as input and returns a 
+tuple containing the shortest and longest word from the list, in that order. If 
+there are multiple words of the same shortest or longest length, return the 
+first shortest/longest word found.  
+Input:- 
+words = ["apple", "banana", "kiwi", "grapefruit", "orange"] 
+Output:- ('kiwi', 'grapefruit')
