@@ -1,2 +1,2 @@
-from .algebra import solve_quadratic
-from .arithmetic import sub, sum
+from .emi_calculator import emi
+from .tax_calculator import tax
